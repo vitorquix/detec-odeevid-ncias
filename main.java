@@ -9,7 +9,7 @@ public class Principal {
 	public static void main(String[] args) {
 
 		Random numbers = new Random();
-		int[] variavel = { 2, 5, 3, 2, 2, 2, 5, 3, 6, 2, 5, 3, 5, 2, 2, 7, 2, 5, 3, 2, 9 };
+		//int[] variavel = { 2, 5, 3, 2, 2, 2, 5, 3, 6, 2, 5, 3, 5, 2, 2, 7, 2, 5, 3, 2, 9 };
 		HashMap<Integer, Integer> evidencias = new HashMap();
 		ArrayList<Integer> valores = new ArrayList();
 
